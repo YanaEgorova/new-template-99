@@ -1,0 +1,22 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #60696f;
+  --second-brand-color: #c4c5c9;
+  --third-brand-color: #273545;
+  --third-brand-color: red;
+
+  --main-font:  'Kanit';
+  --title-font:  'Kanit Bold';
+  --main-title-font: 'Kanit Black';
+
+  font-size: 62.5%;
+}

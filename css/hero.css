@@ -1,0 +1,14 @@
+.hero__wrapper { 
+}
+
+.hero {
+    padding: 40rem 0;
+    text-align: center;
+}
+.hero .text {
+    margin-bottom: 4rem;
+}
+
+@media screen and (min-width: 1440px) {
+  
+}
